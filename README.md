@@ -12,4 +12,3 @@
 <img src="https://github.com/hiranferretibaccos725/stock-control/blob/main/readme-images/14.png" width="405" /> 
 <img src="https://github.com/hiranferretibaccos725/stock-control/blob/main/readme-images/15.png" width="405" /> 
 <img src="https://github.com/hiranferretibaccos725/stock-control/blob/main/readme-images/16.png" width="405" /> 
-<img src="https://github.com/hiranferretibaccos725/stock-control/blob/main/readme-images/17.png" width="405" /> 
